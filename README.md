@@ -4,6 +4,7 @@
 ## iOS
 
 ## Swift
+- [클래스와 구조체는 언제 사용해야 할까? + ](https://github.com/seungchan2/TIL/issues/2) 
 
 ## RxSwift
 
