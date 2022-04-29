@@ -9,7 +9,7 @@
 ## RxSwift
 
 ## CS
-- [HTTP, HTTPS, Socket](https://github.com/seungchan2/TIL/issues/4) 
+- [HTTP, HTTPS, Socket](https://github.com/seungchan2/TIL/issues/5) 
 
 ## Design Pattern
 
