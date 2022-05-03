@@ -1,5 +1,6 @@
 # iOS
  - [Protocol -> BaseView](https://github.com/seungchan2/TIL/issues/6) 
+ - [BottomSheet + PanGesture](https://github.com/seungchan2/TIL/issues/8) 
 
 # Swift
 ## 클래스와 구조체
