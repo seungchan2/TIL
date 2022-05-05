@@ -3,7 +3,7 @@
  - [BottomSheet + PanGesture](https://github.com/seungchan2/TIL/issues/8) 
 
 # Swift
-- [final 키워드의 성능적 이점](https://github.com/seungchan2/TIL/issues/10) 
+- [final 키워드의 성능적 이점](https://github.com/seungchan2/TIL/issues/14) 
 - [Static Dispatch, Dynamic Dispatch](https://github.com/seungchan2/TIL/issues/15) 
 
 ### 클래스와 구조체
