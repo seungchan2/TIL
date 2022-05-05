@@ -18,7 +18,7 @@
 - [Blocking vs Non-Blocking / Sync vs Async](https://github.com/seungchan2/TIL/issues/4) ⭐️
 
 # RxSwift
-
+- [Observables](https://github.com/seungchan2/TIL/issues/16)
 # CS
 - [HTTP, HTTPS, Socket](https://github.com/seungchan2/TIL/issues/5) ⭐️
 
