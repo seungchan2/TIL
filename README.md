@@ -3,8 +3,11 @@
  - [BottomSheet + PanGesture](https://github.com/seungchan2/TIL/issues/8) 
 
 # Swift
-- [final 키워드의 성능적 이점](https://github.com/seungchan2/TIL/issues/14) 
-- [Static Dispatch, Dynamic Dispatch](https://github.com/seungchan2/TIL/issues/15) 
+- [1. final 키워드의 성능적 이점 (Static Dispatch, DynamicDispatch)](https://github.com/seungchan2/TIL/issues/15) 
+- [2. final 키워드의 성능적 이점 (실제 코드 예시)](https://github.com/seungchan2/TIL/issues/14) 
+
+- [고차함수](https://github.com/seungchan2/TIL/issues/18) 
+
 
 ### 클래스와 구조체
 - [클래스와 구조체는 언제 사용해야 할까? + 차이점](https://github.com/seungchan2/TIL/issues/2) ⭐️
