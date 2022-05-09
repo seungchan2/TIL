@@ -1,6 +1,7 @@
 # iOS
  - [Protocol -> BaseView](https://github.com/seungchan2/TIL/issues/6) 
  - [BottomSheet + PanGesture](https://github.com/seungchan2/TIL/issues/8) 
+ - [@UIApplicationMain @main](https://github.com/seungchan2/TIL/issues/22) 
 
 # Swift
 - [1. final 키워드의 성능적 이점 (Static Dispatch, DynamicDispatch)](https://github.com/seungchan2/TIL/issues/15) 
