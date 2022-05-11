@@ -6,10 +6,19 @@
  - [Self-Sizing CollectionView (동적 width) [2 / 2]](https://github.com/seungchan2/TIL/issues/27) 
 
 # Swift
-- [1. final 키워드의 성능적 이점 (Static Dispatch, DynamicDispatch)](https://github.com/seungchan2/TIL/issues/15) 
-- [2. final 키워드의 성능적 이점 (실제 코드 예시)](https://github.com/seungchan2/TIL/issues/14) 
+ [final 키워드의 성능적 이점 (Static Dispatch, DynamicDispatch) [1 / 2]](https://github.com/seungchan2/TIL/issues/15) </br>
+ [final 키워드의 성능적 이점 (실제 코드 예시) [2 / 2]](https://github.com/seungchan2/TIL/issues/14) </br>  </br> 
+ 
+ 
 
-- [고차함수](https://github.com/seungchan2/TIL/issues/18) 
+ [UserDefaults에 대한 개인적인 생각](https://github.com/seungchan2/TIL/issues/30) </br>
+ [UserDefaults 그리고 PropertyListDecode](https://github.com/seungchan2/TIL/issues/31)  </br>  </br> 
+ 
+ 
+ 
+ 
+ [고차함수](https://github.com/seungchan2/TIL/issues/18) 
+ [기본 문법](https://github.com/seungchan2/TIL/issues/26) 
 
 
 ### 클래스와 구조체
