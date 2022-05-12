@@ -21,7 +21,7 @@
  
  
  [고차함수](https://github.com/seungchan2/TIL/issues/18) </br>
- [기본 문법](https://github.com/seungchan2/TIL/issues/26) 
+ [기본 문법](https://github.com/seungchan2/TIL/issues/23) 
 
 
 ### 클래스와 구조체
