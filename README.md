@@ -20,7 +20,7 @@
  
  
  
- [고차함수](https://github.com/seungchan2/TIL/issues/18) 
+ [고차함수](https://github.com/seungchan2/TIL/issues/18) </br>
  [기본 문법](https://github.com/seungchan2/TIL/issues/26) 
 
 
@@ -37,6 +37,7 @@
 
 # RxSwift
 - [Observables](https://github.com/seungchan2/TIL/issues/16)
+- [초콜릿 앱 만들기](https://github.com/seungchan2/TIL/issues/32)
 # CS
 - [HTTP, HTTPS, Socket](https://github.com/seungchan2/TIL/issues/5) ⭐️
 
