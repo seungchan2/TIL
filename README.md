@@ -38,6 +38,9 @@
 # RxSwift
 - [Observables](https://github.com/seungchan2/TIL/issues/16)
 - [초콜릿 앱 만들기](https://github.com/seungchan2/TIL/issues/32)
+- [RxSwift + MVVM (Input, Output)](https://github.com/seungchan2/TIL/issues/34) 🆕
+- [PHPhotoLibrary 권한 설정](https://github.com/seungchan2/TIL/issues/38) 🆕
+- [combineLatest + UIImage](https://github.com/seungchan2/TIL/issues/39) 🆕
 # CS
 - [HTTP, HTTPS, Socket](https://github.com/seungchan2/TIL/issues/5) ⭐️
 
