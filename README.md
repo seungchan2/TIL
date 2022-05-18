@@ -20,10 +20,11 @@
  
  [인스턴스 메서드](https://github.com/seungchan2/TIL/issues/46) 🆕 </br>
  [타입 메서드 class, static](https://github.com/seungchan2/TIL/issues/47) 🆕 </br>
- [서브스크립트 subscript](https://github.com/seungchan2/TIL/issues/48) 🆕 </br>
+ [서브스크립트 subscript](https://github.com/seungchan2/TIL/issues/48) 🆕 </br> </br>
  
- 
- 
+ [is 연산자](https://github.com/seungchan2/TIL/issues/50) 🆕 </br>
+ [as 연산자](https://github.com/seungchan2/TIL/issues/51) 🆕 </br>
+ [타입과 다형성](https://github.com/seungchan2/TIL/issues/52) 🆕 </br> </br>
  
  
  
