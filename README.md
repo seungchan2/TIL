@@ -2,11 +2,12 @@
 > 딱 한 가지만 지킨다. 평일 중 매일 1가지의 TIL을 기록하고 자정이 되면 그 내용을 공유한다.
 
 # iOS
- - [Protocol -> BaseView](https://github.com/seungchan2/TIL/issues/6) 
- - [BottomSheet + PanGesture](https://github.com/seungchan2/TIL/issues/8) 
- - [@UIApplicationMain @main](https://github.com/seungchan2/TIL/issues/22) 
- - [Self-Sizing CollectionView (동적 width) [1 / 2]](https://github.com/seungchan2/TIL/issues/25) 
- - [Self-Sizing CollectionView (동적 width) [2 / 2]](https://github.com/seungchan2/TIL/issues/27) 
+[Protocol -> BaseView](https://github.com/seungchan2/TIL/issues/6)  </br> 
+[BottomSheet + PanGesture](https://github.com/seungchan2/TIL/issues/8)  </br> 
+[@UIApplicationMain @main](https://github.com/seungchan2/TIL/issues/22)  </br> 
+[Self-Sizing CollectionView (동적 width) [1 / 2]](https://github.com/seungchan2/TIL/issues/25)  </br> 
+[Self-Sizing CollectionView (동적 width) [2 / 2]](https://github.com/seungchan2/TIL/issues/27)  </br> 
+ [Array의 index out of range 방지 ](https://github.com/seungchan2/TIL/issues/53)  </br>   </br> 
 
 # Swift
  [final 키워드의 성능적 이점 (Static Dispatch, DynamicDispatch) [1 / 2]](https://github.com/seungchan2/TIL/issues/15) ⭐️ </br> 
@@ -46,19 +47,21 @@
 [클래스 초기화 init](https://github.com/seungchan2/TIL/issues/24) 🆕 ⭐ </br>
 
 ### ARC
-- [순환 참조를 확인하는 방법](https://github.com/seungchan2/TIL/issues/7) ⭐️
+[순환 참조를 확인하는 방법](https://github.com/seungchan2/TIL/issues/7) ⭐️
 
 ### GCD
-- [동시성 프로그래밍의 문제점 (Thread-safe / 교착상태)](https://github.com/seungchan2/TIL/issues/10) ⭐️
-- [UI를 MainThread에서 업데이트 하는 이유](https://github.com/seungchan2/TIL/issues/11)
-- [Blocking vs Non-Blocking / Sync vs Async](https://github.com/seungchan2/TIL/issues/4) ⭐️
+ [동시성 프로그래밍의 문제점 (Thread-safe / 교착상태)](https://github.com/seungchan2/TIL/issues/10) ⭐️ </br>
+ [UI를 MainThread에서 업데이트 하는 이유](https://github.com/seungchan2/TIL/issues/11) </br>
+ [Blocking vs Non-Blocking / Sync vs Async](https://github.com/seungchan2/TIL/issues/4) ⭐️ </br>
+ [GCD 예시 (DipsatchQueue.main.sync)](https://github.com/seungchan2/TIL/issues/44) 🆕 ⭐️   </br>
+ 
 
 # RxSwift
-- [Observables](https://github.com/seungchan2/TIL/issues/16)
-- [초콜릿 앱 만들기](https://github.com/seungchan2/TIL/issues/32)
-- [RxSwift + MVVM (Input, Output)](https://github.com/seungchan2/TIL/issues/34) 🆕
-- [PHPhotoLibrary 권한 설정](https://github.com/seungchan2/TIL/issues/38) 🆕
-- [combineLatest + UIImage](https://github.com/seungchan2/TIL/issues/39) 🆕
+[Observables](https://github.com/seungchan2/TIL/issues/16)  </br> 
+[초콜릿 앱 만들기](https://github.com/seungchan2/TIL/issues/32)  </br> 
+[RxSwift + MVVM (Input, Output)](https://github.com/seungchan2/TIL/issues/34) 🆕  </br> 
+[PHPhotoLibrary 권한 설정](https://github.com/seungchan2/TIL/issues/38) 🆕  </br> 
+[combineLatest + UIImage](https://github.com/seungchan2/TIL/issues/39) 🆕  </br>  </br> 
 # CS
 [HTTP, HTTPS, Socket](https://github.com/seungchan2/TIL/issues/5) ⭐️ </br>
 [OOP의 특징](https://github.com/seungchan2/TIL/issues/42) 🆕 ⭐️ </br>
