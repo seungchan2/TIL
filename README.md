@@ -47,7 +47,9 @@
 [클래스 초기화 init](https://github.com/seungchan2/TIL/issues/24) ⭐ </br>
 
 ### ARC
-[순환 참조를 확인하는 방법](https://github.com/seungchan2/TIL/issues/7) ⭐️
+[ARC](https://github.com/seungchan2/TIL/issues/3) ⭐️  </br> 
+[강한 참조, 약한 참조, 미소유 참조](https://github.com/seungchan2/TIL/issues/58) ⭐️  </br> 
+[순환 참조를 확인하는 방법](https://github.com/seungchan2/TIL/issues/7) ⭐️  </br>
 
 ### GCD
 [동시성 프로그래밍의 문제점 (Thread-safe / 교착상태)](https://github.com/seungchan2/TIL/issues/10) ⭐️</br>
@@ -62,11 +64,15 @@
 [PHPhotoLibrary 권한 설정](https://github.com/seungchan2/TIL/issues/38) </br>
 [combineLatest + UIImage](https://github.com/seungchan2/TIL/issues/39) </br>
 
-## RxSwift 궁금증 
+## RxSwift ++
 [Obeservable와 Observer](https://github.com/seungchan2/RxSwift_Study/issues/1) 🆕</br>
 [DisposeBag](https://github.com/seungchan2/RxSwift_Study/issues/2) 🆕</br>
 [BehaviorSubject, PublishSubject 차이](https://github.com/seungchan2/RxSwift_Study/issues/3)🆕</br>
 [UI에서 Relay를 주로 사용하는 이유](https://github.com/seungchan2/RxSwift_Study/issues/4)🆕</br>
+[Cold Obseverable Hot Observerable](https://github.com/seungchan2/RxSwift_Study/issues/5)🆕</br>
+[Combining Operator [1/2] (Prefixing and concatenating)](https://github.com/seungchan2/RxSwift_Study/issues/6)🆕</br>
+[Combining Operator [2/2] (Triggers)](https://github.com/seungchan2/RxSwift_Study/issues/9)🆕</br>
+[extension Reactive where Base](https://github.com/seungchan2/RxSwift_Study/issues/10)🆕</br>
 
 # CS
 [HTTP, HTTPS, Socket](https://github.com/seungchan2/TIL/issues/5) ⭐️ </br>
