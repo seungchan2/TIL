@@ -8,7 +8,18 @@
  [Self-Sizing CollectionView (동적 width) [1 / 2]](https://github.com/seungchan2/TIL/issues/25) </br> 
  [Self-Sizing CollectionView (동적 width) [2 / 2]](https://github.com/seungchan2/TIL/issues/27) </br>  </br> 
  [Array의 index out of range 방지](https://github.com/seungchan2/TIL/issues/53)  </br> 
-
+ [String Extension](https://github.com/seungchan2/TIL/issues/70) </br>
+ [APIKey 숨기기](https://github.com/seungchan2/TIL/issues/78)</br> 
+ 
+ ### UITest
+ [UITest [1 / 3]](https://github.com/seungchan2/TIL/issues/83)
+ [UITest [2 / 3]](https://github.com/seungchan2/TIL/issues/84)
+ [UITest [3 / 3]](https://github.com/seungchan2/TIL/issues/85)
+ 
+ ### Realm 
+ [Realm vs CoreData](https://github.com/seungchan2/TIL/issues/66)  ⭐️ </br> 
+ [Realm 사용해보기](https://github.com/seungchan2/TIL/issues/67) ⭐️ </br> 
+ 
 # Swift
  [final 키워드의 성능적 이점 (Static Dispatch, DynamicDispatch) [1 / 2]](https://github.com/seungchan2/TIL/issues/15) ⭐️ </br> 
  [final 키워드의 성능적 이점 (실제 코드 예시) [2 / 2]](https://github.com/seungchan2/TIL/issues/14) </br>  </br> 
@@ -26,9 +37,10 @@
  [is 연산자](https://github.com/seungchan2/TIL/issues/50)  </br>
  [as 연산자](https://github.com/seungchan2/TIL/issues/51)  </br>
  [타입과 다형성](https://github.com/seungchan2/TIL/issues/52)  </br> </br>
- 
- 
- 
+
+ [Generic](https://github.com/seungchan2/TIL/issues/72) </br>
+ [joined](https://github.com/seungchan2/TIL/issues/74) </br>
+
  
 
  [UserDefaults에 대한 개인적인 생각](https://github.com/seungchan2/TIL/issues/30) </br>
@@ -79,6 +91,15 @@
 # CS
 [HTTP, HTTPS, Socket](https://github.com/seungchan2/TIL/issues/5) ⭐️ </br>
 [OOP의 특징](https://github.com/seungchan2/TIL/issues/42) ⭐️ </br>
+[DI, DIP](https://github.com/seungchan2/TIL/issues/79) </br>
+
+# Architecture
+[MVVM + URLSession](https://github.com/seungchan2/TIL/issues/69) </br> 
+[MVVM 데이터 전달](https://github.com/seungchan2/TIL/issues/73) </br>
+[MVC -> MVVM 리팩토링](https://github.com/seungchan2/TIL/issues/76) </br>
+
+[Clean Architecture[1 / 3]](https://github.com/seungchan2/TIL/issues/80) </br>
+[Clean Architecture[2 / 3]](https://github.com/seungchan2/TIL/issues/81) </br>
 
 # Trouble Shooting
 
