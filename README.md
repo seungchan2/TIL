@@ -38,7 +38,7 @@
  [as 연산자](https://github.com/seungchan2/TIL/issues/51)  </br>
  [타입과 다형성](https://github.com/seungchan2/TIL/issues/52)  </br> </br>
 
- [Generic](https://github.com/seungchan2/TIL/issues/72) </br>
+ [Generic](https://github.com/seungchan2/TIL/issues/72) </br>Ω
  [joined](https://github.com/seungchan2/TIL/issues/74) </br>
 
  
@@ -51,6 +51,8 @@
  
  [고차함수](https://github.com/seungchan2/TIL/issues/18) </br>
  [기본 문법](https://github.com/seungchan2/TIL/issues/23) 
+ 
+ [ThreadSafeArray](https://github.com/seungchan2/TIL/issues/115) 🆕 </br>
 
 
 ### 클래스와 구조체
