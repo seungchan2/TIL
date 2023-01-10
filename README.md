@@ -38,7 +38,7 @@
  [as 연산자](https://github.com/seungchan2/TIL/issues/51)  </br>
  [타입과 다형성](https://github.com/seungchan2/TIL/issues/52)  </br> </br>
 
- [Generic](https://github.com/seungchan2/TIL/issues/72) </br>Ω
+ [Generic](https://github.com/seungchan2/TIL/issues/72) </br>
  [joined](https://github.com/seungchan2/TIL/issues/74) </br>
 
  
